@@ -563,17 +563,20 @@ h6,
   color: #232323;
   font-size: 13px;
 }
-#msg-box3-y .mbr-section-title,
-#msg-box3-y p {
-  color: #000;
+#content1-22 DIV {
+  text-align: center;
 }
-#msg-box3-y .mbr-section-title {
+#header3-21 .mbr-section-title,
+#header3-21 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-21 H3 {
   color: #b8312f;
   font-family: 'Indie Flower', cursive;
 }
-#msg-box3-y .lead P {
-  text-align: left;
-  font-size: 19px;
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
